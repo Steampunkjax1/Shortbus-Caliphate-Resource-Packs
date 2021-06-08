@@ -2,7 +2,7 @@
 
 Texture packs made for the 2b2t group The Shortbus Caliphate (SBC)
 
-packs made by Steampunkjax
+Packs made by Steampunkjax
 
 Releases:
 
