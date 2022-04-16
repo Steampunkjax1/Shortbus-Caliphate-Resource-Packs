@@ -8,8 +8,5 @@ Releases:
 
 SBC pack 1.0 (Completed)
 
-SBC Pack 2.0 (In Progress)
+SBC Pack 2.0 (Completed)
 
-Sbc Pvp Pack 1.0 (In Progress)
-
-Camel Pack 1.0 (In Progress)
